@@ -5,4 +5,4 @@
 
 
 ### Neural Network 
-1. 210720 - [Neural Network Scratch](Neural Network.ipynb)
+1. 210720 - [Neural Network Scratch](https://github.com/mandy331/PlayGround/blob/main/Neural%20Network.ipynb)

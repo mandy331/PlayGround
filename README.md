@@ -5,4 +5,4 @@
 
 
 ### Neural Network 
-1. 210720 - [Neural Network Scratch]()
+1. 210720 - [Neural Network Scratch](Neural Network.ipynb)
